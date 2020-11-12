@@ -11,11 +11,15 @@ If you want to contribute sharing your own parts in this repository you can do s
 # Notes / How to use these parts
 For now the repository is composed of two major sections:
 1. One folder including all parts created by Andrei (ArkyRomania) and submitted to Studio team
+
 https://github.com/Cheenzo/StudioParts/tree/main/Parts%20created%20by%20Andrei
-You will find in this folder and subfolders .part files that can be opened with PartDesigner and then exported to Studio.
+
+In this folder and subfolders you will find .part files that can be opened with PartDesigner and then exported to Studio.
 
 2. One section including all parts submitted by Vincent (Cheenzo) to Studio team
+
 https://github.com/Cheenzo/StudioParts/tree/main/Submitted%20to%20Studio%20team
+
 In this folder you will find 3 different folders:
 - "New parts" folder contains all new parts missing from Studio
 - "New patterns" folder contains all new parts including patterns missing from Studio
