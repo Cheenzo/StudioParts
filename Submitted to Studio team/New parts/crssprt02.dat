@@ -1,9 +1,0 @@
-0 FILE crssprt02.dat
-0 Brick 1 x 6 without Bottom Tubes, with Cross Supports
-0 Name:  crssprt02.dat
-0 Author:  
-0 BL_Item_No crssprt02
-0 BFC CERTIFY CCW
-3 16 60.000 24.000 -10.000 60.000 0.000 -10.000 -60.000 0.000 -10.000
-3 16 -60.000 0.000 -10.000 -60.000 24.000 -10.000 60.000 24.000 -10.000
-1 16 0.0000 0.0000 0.0000 1.0000 0.0000 0.0000 0.0000 1.0000 0.0000 0.0000 0.0000 1.0000 s/3067s02.dat
