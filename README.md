@@ -37,7 +37,15 @@ visible):
 - For Windows, Local Disk > Users > [username] > AppData > Local > Stud.io > CustomParts
 - For macOS, Local Disk > Users > [username] > .local > share > Stud.io > CustomParts
 
-Place .dat files in the parts folder, .conn files in the connectivity folder and .col files in the collider folder.
+It might happen that CustomParts does not exists yet, in that case create it as well as 3 subfolders inside:
+- parts
+- connectivity
+- collider
+
+Place:
+- .dat files in the parts folder,
+- .conn files in the connectivity folder and
+- .col files in the collider folder.
 
 Then launch Studio and switch your building palette from Master to Custom Parts to access the part you just added.
 
